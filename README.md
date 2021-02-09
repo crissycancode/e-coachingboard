@@ -1,1 +1,13 @@
-# e-coachingboard
+# e-coachingboard for basketball and soccer
+![alt text](https://github.com/crissycancode/e-coachingboard/blob/master/screenshot/Screen%20Shot%202020-05-06%20at%2010.17.25%20PM.png)
+![alt text](https://github.com/crissycancode/e-coachingboard/blob/master/screenshot/Screen%20Shot%202020-05-06%20at%2010.17.33%20PM.png)
+![alt text](https://github.com/crissycancode/e-coachingboard/blob/master/screenshot/Screen%20Shot%202020-05-06%20at%2010.17.41%20PM.png)
+![alt text](https://github.com/crissycancode/e-coachingboard/blob/master/screenshot/Screen%20Shot%202020-05-06%20at%2010.17.48%20PM.png)
+![alt text](https://github.com/crissycancode/e-coachingboard/blob/master/screenshot/Screen%20Shot%202020-05-06%20at%2010.17.59%20PM.png)
+![alt text](https://github.com/crissycancode/e-coachingboard/blob/master/screenshot/Screen%20Shot%202020-05-06%20at%2010.18.09%20PM.png)
+![alt text](https://github.com/crissycancode/e-coachingboard/blob/master/screenshot/Screen%20Shot%202020-05-06%20at%2010.18.24%20PM.png)
+![alt text](https://github.com/crissycancode/e-coachingboard/blob/master/screenshot/Screen%20Shot%202020-05-06%20at%2010.18.33%20PM.png)
+![alt text](https://github.com/crissycancode/e-coachingboard/blob/master/screenshot/Screen%20Shot%202020-05-06%20at%2010.18.47%20PM.png)
+![alt text](https://github.com/crissycancode/e-coachingboard/blob/master/screenshot/Screen%20Shot%202020-05-06%20at%2010.18.58%20PM.png)
+![alt text](https://github.com/crissycancode/e-coachingboard/blob/master/screenshot/Screen%20Shot%202020-05-06%20at%2010.19.13%20PM.png)
+![alt text](https://github.com/crissycancode/e-coachingboard/blob/master/screenshot/Screen%20Shot%202020-05-06%20at%2010.19.21%20PM.png)
